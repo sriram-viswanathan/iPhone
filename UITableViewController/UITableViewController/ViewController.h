@@ -1,0 +1,15 @@
+//
+//  ViewController.h
+//  UITableViewController
+//
+//  Created by Yahoo on 3/25/12.
+//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ViewController : UITableViewController {
+    NSArray *_dataArray;
+}
+
+@end
